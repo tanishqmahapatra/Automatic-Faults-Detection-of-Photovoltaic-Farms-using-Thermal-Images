@@ -1,27 +1,3 @@
-# Automatic-Faults-Detection-of-Photovoltaic-Farms-using-Thermal-Images
-<div>
-
-</div>
-<br><br><br>
-
-<h1 align="center"><ins> Automatic Faults Detection of Photovoltaic Farms using Thermal Images</ins> </h1>
-<br>
-
-<div align="center">
-
-<img src= "/assets/single_detect.png" alt="Drone" align="left" width="230">
-
-<img src= "/assets/a89.png" alt="Drone" align="right" width="230">
-
-<img src= "/assets/a83.png" alt="Drone" align="center" width="230">
-
-</div>
-<br>
-<h4 align="center">
-<b> <INS>EXPLORATORY PROJECT </INS>  </b>
-</h4>
-
-
 <div align="center">
 <img src= "/assets/drone2.jpg" alt="Drone" align="center" width="490">
 </div>

@@ -1,16 +1,3 @@
-<div>
-<img src=
-"/assets/logo_eee.png" 
-         alt="Dronetech logo" 
-         align="right" 
-         width="200">
-<img src=
-"/assets/IITBHU-Logo.jpg" 
-         alt="technex logo" 
-         align="left" 
-         width="90">
-</div>
-<br><br><br>
 
 <h1 align="center"><ins> Automatic Faults Detection of Photovoltaic Farms using Thermal Images</ins> </h1>
 <br>
@@ -29,16 +16,6 @@
 <b> <INS>EXPLORATORY PROJECT </INS>  </b>
 </h4>
 
-<h6 align="center">
-<b> UNDER THE GUIDANCE OF PROFESSOR R.K. PANDEY
-  </b>
-</h6>
-
-##### TEAM MEMBERS:
-
-- <B>PRATYUSH SINGH</B>
-- <B>CHAHAK JETHANI</B>
-- <B>OM PRAKASH</B>
 
 <div align="center">
 <img src= "/assets/drone2.jpg" alt="Drone" align="center" width="490">
